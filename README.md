@@ -1,6 +1,6 @@
 # capitol-riot-tweets
 
-A csv file with 80,000+ tweets from January 6th, 2021 -- the day of the capitol hill riots.
+A csv file with 80,000+ tweets from January 6th, 2021 -- the day of the capitol hill riots. Made using the Twitter Developer API + Tweepy.
 
 Nowhere close to the size of the Parler data dumps, but anyone with NLP experience might be able to find something useful here.
 
